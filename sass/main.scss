@@ -1,0 +1,29 @@
+//Utils
+@import './utils/variables';
+@import './utils/placeholders';
+@import './utils/visually-hidden';
+
+//Base
+@import './base/common';
+
+//Components
+@import './components/section';
+@import './components/container';
+@import './components/button';
+@import './components/socials';
+@import './components/backdrop';
+@import './components/modal';
+@import './components/modal-form';
+@import './components/mobile-menu';
+
+//Layout
+@import './layout/header';
+@import './layout/hero';
+@import './layout/about';
+@import './layout/prices';
+@import './layout/features';
+@import './layout/team';
+@import './layout/gallery';
+// Подключить форму
+@import './layout/contacts';
+@import './layout/footer';

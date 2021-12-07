@@ -1,0 +1,30 @@
+{
+    "version": 3,
+    "mappings": "AIAA,AAAA,CAAC;AACD,EAAE;AACF,EAAE;AACF,EAAE;AACF,EAAE;AACF,EAAE;AACF,EAAE,CAAC;EACD,MAAM,EAAE,CAAC;CACV;;AAED,AAAA,EAAE,CAAC;EACD,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,IAAI;CACjB;;AACD,AAAA,MAAM,CAAC;EACL,MAAM,EAAE,OAAO;CAChB;;AACD,AAAA,GAAG,CAAC;EACF,OAAO,EAAE,KAAK;EACd,SAAS,EAAE,IAAI;EACf,MAAM,EAAE,IAAI;CACb;;AAED,AAAA,KAAK,CAAC;EACJ,eAAe,EAAE,IAAI;CACtB",
+    "sources": [
+        "../sass/main.scss",
+        "../sass/utils/_variables.scss",
+        "../sass/utils/_placeholders.scss",
+        "../sass/utils/_visually-hidden.scss",
+        "../sass/base/_common.scss",
+        "../sass/components/_section.scss",
+        "../sass/components/_container.scss",
+        "../sass/components/_button.scss",
+        "../sass/components/_socials.scss",
+        "../sass/components/_backdrop.scss",
+        "../sass/components/_modal.scss",
+        "../sass/components/_modal-form.scss",
+        "../sass/components/_mobile-menu.scss",
+        "../sass/layout/_header.scss",
+        "../sass/layout/_hero.scss",
+        "../sass/layout/_about.scss",
+        "../sass/layout/_prices.scss",
+        "../sass/layout/_features.scss",
+        "../sass/layout/_team.scss",
+        "../sass/layout/_gallery.scss",
+        "../sass/layout/_contacts.scss",
+        "../sass/layout/_footer.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
